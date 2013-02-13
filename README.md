@@ -1,5 +1,7 @@
 # Google Analytics jQuery Plugin
 
+![Google Analytics jQuery Plugin](http://www.shamasis.net/wp-content/uploads/2009/08/Google-Analytics-jQuery-Logo.jpg)
+
 **Google Analytics jQuery Plugin is a jQuery Plugin!**
 
 When used in conjunction with the famous [jQuery framework][1], this plugin allows easy integration of [Google Analytics][2] on any webpage.
