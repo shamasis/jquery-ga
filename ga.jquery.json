@@ -1,0 +1,30 @@
+{
+  "name": "ga",
+  "title": "Google Analytics jQuery Plugin",
+  "description": "Plugin for easy async integration and usage of Google Analytics using Query syntax",
+  "keywords": [
+    "jquery",
+    "ga",
+    "plugins",
+    "google",
+    "analytics"
+  ],
+  "version": "2.0.1",
+  "author": {
+    "name": "Shamasis Bhattacharya",
+    "url": "http://www.shamasis.net/"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/mit-license.php"
+    }
+  ],
+  "bugs": "https://github.com/shamasis/jquery.ga/issues",
+  "homepage": "http://shamasis.github.com/jquery.ga/",
+  "docs": "http://shamasis.github.com/jquery.ga/",
+  "download": "https://github.com/shamasis/jquery.ga/zipball/master",
+  "dependencies": {
+    "jquery": ">=1.4"
+  }
+}
