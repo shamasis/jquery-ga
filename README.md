@@ -54,10 +54,10 @@ You can execute a callback function upon load of Google Analytics Code. This can
 ```html
 <script type="text/javascript">
 $(document).ready( function() {
-   $.ga.load("UA-xxxxxx-x", <strong>function(pageTracker) {
+   $.ga.load("UA-xxxxxx-x", function(pageTracker) {
       // an example of a line of what your code can be…
       pageTracker._setDomainName(".example.com");
-   }</strong>);
+   });
 });
 </script>
 ```
