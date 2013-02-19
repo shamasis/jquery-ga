@@ -9,7 +9,7 @@
     "google",
     "analytics"
   ],
-  "version": "2.0.1",
+  "version": "2.0.2",
   "author": {
     "name": "Shamasis Bhattacharya",
     "url": "http://www.shamasis.net/"
@@ -20,10 +20,10 @@
       "url": "http://www.opensource.org/licenses/mit-license.php"
     }
   ],
-  "bugs": "https://github.com/shamasis/jquery.ga/issues",
-  "homepage": "http://shamasis.github.com/jquery.ga/",
-  "docs": "http://shamasis.github.com/jquery.ga/",
-  "download": "https://github.com/shamasis/jquery.ga/zipball/master",
+  "bugs": "https://github.com/shamasis/jquery-ga/issues",
+  "homepage": "http://shamasis.github.com/jquery-ga/",
+  "docs": "http://shamasis.github.com/jquery-ga/",
+  "download": "https://github.com/shamasis/jquery-ga/zipball/master",
   "dependencies": {
     "jquery": ">=1.4"
   }

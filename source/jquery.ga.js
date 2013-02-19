@@ -8,7 +8,7 @@
 /**!
  * @license jQuery Google Analytics Plugin
  * <http://www.shamasis.net/projects/ga/>
- * @version 2.0.1.103
+ * @version 2.0.2
  */
 /**
  * jquery.ga.js
